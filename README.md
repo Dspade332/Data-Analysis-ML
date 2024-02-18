@@ -7,3 +7,5 @@ Hello,  my name is osama and mainly my interest lies in understanding the comple
 a collection of ML projects ive worked on, some from data collected from popular scarpping websites like Inside Airbnb or data from kaggle datasets(mostly just raw data pulled from APIs).
 
 I usually focus on the defining the problem, data building process, data analysis and the model building process.
+
+the rest of my projects can be found at https://www.kaggle.com/osamayassen/code
